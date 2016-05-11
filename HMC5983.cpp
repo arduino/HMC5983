@@ -3,7 +3,7 @@
  *
  * simple library to test the HMC5983 sensor from Honeywell
  *
- * (c) 2014 David Cuartielles, Arduino Verkstad AB
+ * (c) 2014 David Cuartielles, Arduino LLC
  */
 
 #include "HMC5983.h"
